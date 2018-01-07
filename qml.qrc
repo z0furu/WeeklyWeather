@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rssWeather.qml</file>
+        <file>WeatherDelegate.qml</file>
+    </qresource>
+</RCC>
