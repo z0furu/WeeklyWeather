@@ -22,6 +22,8 @@ Rectangle {
         onClicked: {
             //Delete
             console.log(modelData)
+            deleteDB(modelData)
+            list.model = getAllWeather()
         }
     }
 
